@@ -6,3 +6,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+
+const API_KEY='AIzaSyCWPzojoYUV0A7Rwo5T3lYHrYQInHAatOI'
